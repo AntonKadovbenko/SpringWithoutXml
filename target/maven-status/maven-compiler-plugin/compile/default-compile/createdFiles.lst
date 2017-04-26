@@ -1,0 +1,5 @@
+ru\kadovbenko\config\AppSecurityConfig.class
+ru\kadovbenko\config\SecurityInit.class
+ru\kadovbenko\config\WebAppInitializer.class
+ru\kadovbenko\config\application\WebConfig.class
+ru\kadovbenko\controllers\AppController.class
